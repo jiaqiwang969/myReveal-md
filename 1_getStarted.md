@@ -6,6 +6,12 @@
 * get them automatically deployed <!-- .element: class="fragment" data-fragment-index=2" -->
 
 <!--s-->
+## C++ Learning
+![](https://raw.githubusercontent.com/jiaqiwang969/figure-back/main/202212082110705.png)
+<!--s-->
+
+
+
 ## get started
 
 * just press this nice & friendly green button
