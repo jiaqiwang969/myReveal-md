@@ -1,17 +1,14 @@
 <!--s-->
-## github-pages + reveal-md = awesome
-
-* write your slides in markdown <!-- .element: class="fragment" data-fragment-index="0" -->
-* commit them to github <!-- .element: class="fragment" data-fragment-index="1" -->
-* get them automatically deployed <!-- .element: class="fragment" data-fragment-index=2" -->
-
-<!--s-->
-## C++ Learning
 ![](https://raw.githubusercontent.com/jiaqiwang969/figure-back/main/202212082110705.png)
 <!--s-->
 
 
+#using chatgpt for commitgpt
+Ref:https://github.com/RomanHotsiy/commitgpt
 
+
+
+<!--s-->
 ## get started
 
 * just press this nice & friendly green button
